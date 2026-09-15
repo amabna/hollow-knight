@@ -8,6 +8,26 @@ This project was developed as an academic game-development project with a focus 
 
 ---
 
+## 🎬 Gameplay Demo
+
+![Gameplay Demo](pics/video.gif)
+
+---
+
+## 📸 Gameplay Screenshots
+
+![Gameplay Overview](pics/all.png)
+
+![Combat](pics/combat.png)
+
+![Boss Fight](pics/boss.png)
+
+![Game Background](pics/background.png)
+
+![World Environment](pics/ground.png)
+
+---
+
 ## 🎮 Overview
 
 The project recreates the core gameplay experience of a 2D action-platformer, including player movement, combat, enemies, boss encounters, world exploration, checkpoints, UI, audio, and persistent game state.
@@ -244,6 +264,14 @@ Hollow Knight/
 │
 ├── gradle/
 │   └── wrapper/
+│
+├── pics/
+│   ├── all.png
+│   ├── background.png
+│   ├── boss.png
+│   ├── combat.png
+│   ├── ground.png
+│   └── video.gif
 │
 ├── build.gradle
 ├── settings.gradle

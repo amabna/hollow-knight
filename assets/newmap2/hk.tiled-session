@@ -1,0 +1,598 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#f5": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "2953-0@2x.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "BG_egg_07_0000_Layer-1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/False Knight - bestiary_false-knight_f.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/Mines_20_extras_0004_5.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/Mines_Layered_0073_a.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/Void Heart - charm_black.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/abyss_0001_blue_root_10.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/abyss_0003_blue_grass_01.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/barrel_fall0000.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/blue_butterfly.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/blue_door_0001_plinth3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/blue_door_0008_blue_vine_02.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/bone_bench.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/brk_Crystal3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_FG_bone_08.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_archbase_01.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_big_roof_0004_03.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_bridge_collapse_02.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_egg_guard_corpse_03.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_floor_02.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_lift_top.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_mid_wall_detail_lamp_l.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_room_BG_02.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_spikes_BG.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cd_wall_04.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/centipede_pit0002.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/centipede_pit_FG0004.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/conveyor_belt0006.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/crossroads_false_door_0003_1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/cryst_cave_0000_Layer-8.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/f1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/f3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/f4.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/f5.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/far_bg_mines_plats_0003_2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/fll.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/flll.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/floor.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/golems_0001_hanging.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/golems_0004_unlit.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/grub_homes_0002_Color-Balance-1-copy-5.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/hut_0000_Hue_Saturation-2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/hut_colour.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/jelly_light_particle.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/lamp_01.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/lamp_02.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/mine_break_wall_03.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/mine_crystal_08.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/mine_entrance_0012_21.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/mine_platform_02.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/mine_spike_fg_clear.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/mines_additions_02_0010_a.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/mm.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/rrr.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/shop_0002_back.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/soto.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/statue_07.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/summit__0003_lore_stone_02_shine.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/summit_spikes_0001_3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/summit_stones_right_0001_3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/t1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/untitled.tmx": {
+            "scale": 0.2353515625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2519.634854771784,
+                "y": 3337.5601659751037
+            }
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/vine_04.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/wall.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/www.tsx": {
+            "scaleInDock": 1
+        },
+        "False Knight - bestiary_false-knight_f.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Mines_20_extras_0004_5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Mines_Layered_0073_a.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Void Heart - charm_black.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "abyss_0001_blue_root_10.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "abyss_0003_blue_grass_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "barrel_fall0000.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "big_arch_half.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "blue_butterfly.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "blue_butterfly3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "blue_door_0001_plinth3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "blue_door_0008_blue_vine_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bone_bench.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "brk_Crystal1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "brk_Crystal2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "brk_Crystal3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_FG_bone_08.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_archbase_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_big_roof_0004_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_bridge_collapse_02.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "cd_egg_guard_corpse_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_floor_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_lift_top.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_mid_wall_detail_lamp_l.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_room_BG_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cd_room_BG_02.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "cd_spikes_BG.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "cd_wall_04.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cell_lifts0000.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "centipede_pit0002.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "centipede_pit_FG0004.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "conveyor_belt0006.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "crossroads_false_door_0003_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cryst_cave_0000_Layer-8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "f1.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "f2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "f3.tsx": {
+            "scaleInDock": 8,
+            "scaleInEditor": 1
+        },
+        "f4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "f5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "f6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "far_bg_mines_plats_0001_4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "far_bg_mines_plats_0003_2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fg_ground_faces.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fll.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "flll.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floor1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "floor2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "ghost_particle_full.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "golems_0001_hanging.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "golems_0004_unlit.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "grub_homes_0002_Color-Balance-1-copy-5.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "hut_0000_Hue_Saturation-2.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "hut_colour.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "jelly_light_particle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lamp_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lamp_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "m.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_break_wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_break_wall_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_crystal_08.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_entrance_0012_21.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_platform_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_small_crystal_break_0009_c.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_spike_02.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "mine_spike_fg_clear.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_wall_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mine_wall_02_r.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mines_additions_02_0010_a.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mm.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "pantheon of the knight cutscene, the knight, the hollow knight -door_05_end_main0001.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "roof1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rrr.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shop_0002_back.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "soto.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sotun.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "statue_07.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "summit__0003_lore_stone_02_shine.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "summit_spikes_0001_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "summit_stones_right_0001_3.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "t1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 5293.939393939394,
+                "y": 3334.848484848485
+            }
+        },
+        "vine_04.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "www.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "د.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 200,
+    "last.imagePath": "C:/Users/F15/Desktop/AP/Hollow Knight Fake/AllPic/Particles & Effects",
+    "map.height": 1000,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 1000,
+    "openFiles": [
+        "untitled.tmx",
+        "blue_butterfly3.tsx"
+    ],
+    "project": "hk.tiled-project",
+    "recentFiles": [
+        "blue_butterfly3.tsx",
+        "untitled.tmx",
+        "ghost_particle_full.tsx",
+        "blue_butterfly.tsx",
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/t1.tsx",
+        "C:/Users/F15/Desktop/AP/Hollow Knight/newmap/untitled.tmx",
+        "blue_door_0008_blue_vine_02.tsx",
+        "blue_door_0001_plinth3.tsx",
+        "abyss_0001_blue_root_10.tsx",
+        "abyss_0003_blue_grass_01.tsx",
+        "Void Heart - charm_black.tsx",
+        "mine_crystal_08.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 106,
+        "width": 106
+    }
+}

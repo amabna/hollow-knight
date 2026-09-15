@@ -10,7 +10,7 @@ This project was developed as an academic game-development project with a focus 
 
 ## 🎬 Gameplay Demo
 
-![Gameplay Demo](pics/video.gif)
+[▶️ Click To Watch Gameplay Demo](pics/video.mp4)
 
 ---
 
